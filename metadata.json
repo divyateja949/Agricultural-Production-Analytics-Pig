@@ -1,0 +1,6 @@
+{
+  "name": "Agricultural Production Analytics Using Apache Pig",
+  "description": "Comprehensive agricultural production analytics platform demonstrating Apache Pig Latin data processing (LOAD, FILTER, GROUP, FOREACH, ORDER BY, LIMIT, JOIN, STORE) with interactive Chart.js visualizations, CSV dataset management, and academic presentation insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
